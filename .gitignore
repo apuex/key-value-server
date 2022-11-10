@@ -30,3 +30,20 @@
 *.exe
 *.out
 *.app
+
+# idea generated directories
+.idea
+
+# vim temp files
+*.swp
+
+# build directories
+dist
+dist-*
+vs
+.vs
+/build/
+.project
+.cproject
+cmake-build-debug
+
